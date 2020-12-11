@@ -1,0 +1,6 @@
+<html>
+<head>
+<title>Новая страница</title>
+</head>
+<body style="background: #lightblue">
+<h1>Добрый вечер</h1>
